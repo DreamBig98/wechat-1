@@ -4,7 +4,7 @@
 	id        = "com.omtamil.demoapp"
 	versionCode="1"
 	version   = "1.1">
-<name>Speedometer</name>
+<name>Chatz</name>
 <description>
 A Demo App for Mobile Development Workshop</description>
 <author href="DreamBig.com" 
